@@ -1,6 +1,6 @@
 - 👋 Oi, meu nome é Brenda Rodrigues
 - 👀 Tenho interesse em Outsystems, JavaScript, React, Python, Node.js... e por aí vai!
-- 🌱 No momento estou estudando React e Typescript e Node.js.
+- 🌱 No momento estou estudando React, Typescript, Javascript e Node.js.
 - 📫 Você pode me encontrar no LinkedIn. https://www.linkedin.com/in/brendaarodrigues/
 
 <!---
