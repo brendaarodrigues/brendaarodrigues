@@ -1,6 +1,6 @@
-- 👋 Oi! Meu nome é Brenda Rodrigues
-- 👀 Tenho interesse em Outsystems, JavaScript, React, Python, Node.js... e por aí vai.
-- 🌱 No momento estou estudando Typescript, Javascript, Node.js e Angular.
+- 👋 Oi! Meu nome é Brenda Rodrigues.
+- 💗 Sou desenvolvedora front-end, apaixonada por Angular.
+- 🌱 Tenho experiência com desenvolvimento fullstack em Outsystems e desenvolvimento de chatbot.
 - 📫 Você pode me encontrar no LinkedIn. https://www.linkedin.com/in/brendaarodrigues/
 
 <!---
