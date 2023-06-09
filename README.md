@@ -1,6 +1,6 @@
 - 👋 Oi! Meu nome é Brenda Rodrigues.
 - 💗 Sou desenvolvedora front-end, apaixonada por Angular.
-- 🌱 Tenho experiência com desenvolvimento fullstack em Outsystems e desenvolvimento de chatbot.
+- 🌱 Tenho experiência com desenvolvimento de grandes aplicações em Angular, fullstack em Outsystems e desenvolvimento de chatbot.
 - 📫 Você pode me encontrar no LinkedIn. https://www.linkedin.com/in/brendaarodrigues/
 
 <!---
